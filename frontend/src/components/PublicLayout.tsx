@@ -85,18 +85,18 @@ export function PublicLayout() {
         <div className="mx-auto grid max-w-6xl gap-8 px-5 py-12 md:grid-cols-3">
           <div>
             <Logo className="h-10" />
-            <p className="mt-3 max-w-xs text-sm text-muted">Академия массажа: онлайн-кабинет и практика в Минске.</p>
+            <p className="mt-3 max-w-xs text-sm text-muted">Академия массажа: онлайн-кабинет и практика в Гомеле.</p>
           </div>
           <div className="text-sm">
-            <p>Минск, ул. Немига, 5</p>
+            <p>Гомель, ул. Ленина, 4</p>
             <p className="mt-1">
               <a href="tel:+375290000000" className="hover:text-forest">
                 +375 (29) 000-00-00
               </a>
             </p>
             <p className="mt-1">
-              <a href="mailto:hello@soma.academy" className="hover:text-forest">
-                hello@soma.academy
+              <a href="mailto:hello@proxima-skill.academy" className="hover:text-forest">
+                hello@proxima-skill.academy
               </a>
             </p>
           </div>
